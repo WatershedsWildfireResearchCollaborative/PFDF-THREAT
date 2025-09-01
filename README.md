@@ -1,4 +1,4 @@
-# Post-Fire Debris Flow - Toolbox for geoHazard Risk Exposure AssessmenT (PFDF-THREAT)
+# PFDF-THREAT: Post-Fire Debris Flow - Toolkit for Hazard Risk Estimation And Thematic-mapping 
 
 
 ## Overview
@@ -22,7 +22,7 @@ Note: The script folder needs to be in the same folder as the toolbox, as the sc
 5) From here each tool can be opened and run
 
 ### Recommended Citation
-David, S.R., Murphy, B.P., and Belmont, P., 2025. A Title. Environmental Modelling & Software,
+TBA
 
 ### Known Issues
 There are no known issues at this time.
